@@ -1,13 +1,171 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Test",Big Buck Bunny (MP4)
+########################
+# 🇷🇸 SRBIJA
+########################
+#EXTINF:-1 group-title="🇷🇸 Srbija",Test Kanal Srbija 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="🇷🇸 Srbija",Test Kanal Srbija 2
 https://test-streams.mux.dev/bbb-30s.mp4
 
-#EXTINF:-1 group-title="Test",Sintel Trailer (HLS)
+
+########################
+# 🇭🇷 HRVATSKA
+########################
+#EXTINF:-1 group-title="🇭🇷 Hrvatska",Test Kanal HR 1
 https://test-streams.mux.dev/sintel/master.m3u8
 
-#EXTINF:-1 group-title="Test",Tears of Steel (MP4)
+#EXTINF:-1 group-title="🇭🇷 Hrvatska",Test Kanal HR 2
 https://test-streams.mux.dev/tears-of-steel/tears-of-steel-360p.mp4
 
-#EXTINF:-1 group-title="Test",Live Test Stream
+
+########################
+# 🇧🇦 BOSNA
+########################
+#EXTINF:-1 group-title="🇧🇦 Bosna",Test Kanal BiH
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+
+########################
+# 🇲🇪 CRNA GORA
+########################
+#EXTINF:-1 group-title="🇲🇪 Crna Gora",Test Kanal CG
+https://test-streams.mux.dev/bbb-30s.mp4
+
+
+########################
+# 🇩🇪 NEMAČKA
+########################
+#EXTINF:-1 group-title="🇩🇪 Nemačka",Test Kanal DE 1
+https://test-streams.mux.dev/sintel/master.m3u8
+
+#EXTINF:-1 group-title="🇩🇪 Nemačka",Test Kanal DE 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+
+########################
+# 🇦🇹 AUSTRIJA
+########################
+#EXTINF:-1 group-title="🇦🇹 Austrija",Test Kanal AT
+https://test-streams.mux.dev/tears-of-steel/tears-of-steel-360p.mp4
+
+
+########################
+# 🌍 OSTALO
+########################
+#EXTINF:-1 group-title="🌍 Ostalo",Global News Test
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+
+########################
+# 🎬 FILMOVI 2024
+########################
+#EXTINF:-1 group-title="🎬 Filmovi 2024",Sample Movie 2024
+https://test-streams.mux.dev/bbb-30s.mp4
+
+
+########################
+# 🎬 FILMOVI 2023
+########################
+#EXTINF:-1 group-title="🎬 Filmovi 2023",Sample Movie 2023
+https://test-streams.mux.dev/sintel/master.m3u8
+
+
+########################
+# 🎬 FILMOVI 2020-2022
+########################
+#EXTINF:-1 group-title="🎬 Filmovi 2020-2022",Sample Movie
+https://test-streams.mux.dev/tears-of-steel/tears-of-steel-360p.mp4
+
+
+########################
+# 📺 SERIJE
+########################
+#EXTINF:-1 group-title="📺 Serije",Sample Series Episode
+#EXTM3U
+
+########################
+# 🇷🇸 SRBIJA
+########################
+#EXTINF:-1 group-title="🇷🇸 Srbija",Test Kanal Srbija 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="🇷🇸 Srbija",Test Kanal Srbija 2
+https://test-streams.mux.dev/bbb-30s.mp4
+
+
+########################
+# 🇭🇷 HRVATSKA
+########################
+#EXTINF:-1 group-title="🇭🇷 Hrvatska",Test Kanal HR 1
+https://test-streams.mux.dev/sintel/master.m3u8
+
+#EXTINF:-1 group-title="🇭🇷 Hrvatska",Test Kanal HR 2
+https://test-streams.mux.dev/tears-of-steel/tears-of-steel-360p.mp4
+
+
+########################
+# 🇧🇦 BOSNA
+########################
+#EXTINF:-1 group-title="🇧🇦 Bosna",Test Kanal BiH
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+
+########################
+# 🇲🇪 CRNA GORA
+########################
+#EXTINF:-1 group-title="🇲🇪 Crna Gora",Test Kanal CG
+https://test-streams.mux.dev/bbb-30s.mp4
+
+
+########################
+# 🇩🇪 NEMAČKA
+########################
+#EXTINF:-1 group-title="🇩🇪 Nemačka",Test Kanal DE 1
+https://test-streams.mux.dev/sintel/master.m3u8
+
+#EXTINF:-1 group-title="🇩🇪 Nemačka",Test Kanal DE 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+
+########################
+# 🇦🇹 AUSTRIJA
+########################
+#EXTINF:-1 group-title="🇦🇹 Austrija",Test Kanal AT
+https://test-streams.mux.dev/tears-of-steel/tears-of-steel-360p.mp4
+
+
+########################
+# 🌍 OSTALO
+########################
+#EXTINF:-1 group-title="🌍 Ostalo",Global News Test
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+
+########################
+# 🎬 FILMOVI 2024
+########################
+#EXTINF:-1 group-title="🎬 Filmovi 2024",Sample Movie 2024
+https://test-streams.mux.dev/bbb-30s.mp4
+
+
+########################
+# 🎬 FILMOVI 2023
+########################
+#EXTINF:-1 group-title="🎬 Filmovi 2023",Sample Movie 2023
+https://test-streams.mux.dev/sintel/master.m3u8
+
+
+########################
+# 🎬 FILMOVI 2020-2022
+########################
+#EXTINF:-1 group-title="🎬 Filmovi 2020-2022",Sample Movie
+https://test-streams.mux.dev/tears-of-steel/tears-of-steel-360p.mp4
+
+
+########################
+# 📺 SERIJE
+########################
+#EXTINF:-1 group-title="📺 Serije",Sample Series Episode
+https://filmotip.com/sa-prevodom/the-vampire-diaries-s01e01-video_5708bee47.m3u8
