@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1,VAMPIRE DIARIES S1 E1
-https://play.hbomax.com/video/watch/6160a497-4de7-45ee-be18-acf85dfba1e8/558990c6-ec0a-4a2f-9757-102e1373f647
+
+#EXTINF:-1,UBICE MOG S1E1 (Example)
+https://www.youtube.com/watch?v=NUoKhVtBSLA&list=PLMb9ka8UZ8Hjhwq9OQndQh7D2ITX4vAmf&index=1
+
+#EXTINF:-1,Big Buck Bunny (Test Stream)
+https://test-streams.mux.dev/bbb-30s.mp4
+
+#EXTINF:-1,Sintel Test Stream
+https://test-streams.mux.dev/sintel/master.m3u8
+
+#EXTINF:-1,Sample HLS Stream
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
